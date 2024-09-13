@@ -1,0 +1,279 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header__wrap{
+    padding: 10px 120px ;
+    display: flex;
+    gap: 750px;
+    justify-content: center;
+    align-items: center;
+}
+
+.header__logo{
+    width: 100px;
+    height: auto;
+}
+
+.header__elements{
+    display: flex;
+    gap: 20px; 
+    justify-content: center;
+    align-items: center;
+}
+
+.i{
+    font-size: 16px;
+    font-weight: 400;
+    color: #3A5F56;
+}
+
+.button{
+    display: flex;
+    gap: 8px;
+    background-color: #3A5F56;
+    padding: 10px 18px;
+    border-radius: 6px;
+    align-items: center;  
+    color: #fff;
+}
+
+.zero{
+    background-color: #fff;
+    padding: 0px 5px;
+    border-radius: 50%;
+    color: black;
+}
+
+.read-more{
+    background-color: #3A5F56;
+    padding: 10px;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 8px;
+}
+
+.main{
+    background-color: #F4F3F0;
+}
+
+.main__container{
+    padding: 100px 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+
+.main__box{
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.photograph{
+    font-size: 48px;
+    font-weight: 400;
+    color: #3A5F56;
+}
+
+.main__text{
+    font-size: 16px;
+    font-weight: 400;
+    color: #292C32;
+}
+
+.main2{
+    display: flex;
+    flex-direction: column;
+    padding: 100px 120px;
+    justify-content: center;
+    align-items: center;
+}
+
+.main2__cont{
+    max-width: 500px;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding-bottom: 40px;
+}
+
+.main2__title{
+    font-size: 32px;
+    font-weight: 400;
+    color: #3A5F56;
+}
+
+.main2__sub-title{
+    font-size: 16px;
+    font-weight: 400;
+    color: #292C32;
+}
+
+.main2__cont2{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.fr{
+    width: 300px;
+    height: 250px;
+    background-color: #F4F3F0;
+    border-radius: 18px;
+    padding: 30px;
+}
+
+.line1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
+.line2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
+.line3{
+    display: flex;
+    align-items: center;
+}
+
+.frame__title{
+    font-size: 24px;
+    font-weight: 400;
+    color: #3A5F56;
+    padding: 9px 0;
+}
+
+.frame__sub-title{
+    font-size: 16px;
+    font-weight: 400;
+    color: #292C32;
+}
+
+.def{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-top: 15px;
+}
+
+.frame__read-more{
+    color:#3A5F56;
+}
+
+.main3{
+    background-color: #F4F3F0;
+    padding: 100px 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.main3__title{
+    font-size: 32px;
+    font-weight: 400;
+    color:#DB343B;
+    padding: 15px 0 ;
+}
+
+.main3__sub-title{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.main3__cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 500px;
+    padding-bottom: 40px ;
+}
+
+.main3__cont2{
+    display: flex;
+    gap: 15px;
+}
+
+.main3__column1{
+    display: flex;
+    flex-direction: column;
+    width: 380px;
+    background-color: #fff;
+    height: 440px;
+}
+
+.main3__column2 {
+    display: flex;
+    flex-direction: column;
+    width: 380px;
+    background-color: #fff;
+    height: 440px;
+}
+
+.main3__column3{
+    display: flex;
+    flex-direction: column;
+    width: 380px;
+    background-color: #fff;
+    height: 440px;
+}
+
+.column__title{
+    font-size: 24px;
+    font-weight: 400;
+    color: #3A5F56;
+    padding: 9px 0;
+}
+
+.column__sub-title{
+    font-size: 16px;
+    font-weight: 400;
+    color: #292C32;
+}
+
+.column__text{
+    padding: 20px;
+}
+
+.main4{
+    padding: 100px 320px;
+}
+
+.main4__cont{
+    background-color: #F4F3F0;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    gap: 200px;
+    height: 200px;
+    border-radius: 16px;
+}
+
+.main4__text{
+    padding: 20px;
+    max-width: 300px;
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.main4__btn{
+    background-color: #3A5F56;
+    color: #fff;
+    padding: 15px;
+    border-radius: 6px;
+    font-weight: 400;
+    font-size: 20px;
+}
